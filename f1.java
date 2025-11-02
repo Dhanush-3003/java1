@@ -2,5 +2,6 @@ class f1{
     public static void main(String[] args){
         System.out.println("Hello World");
         System.out.println("hiii");
+        System.out.println("welcome");
     } 
 }
